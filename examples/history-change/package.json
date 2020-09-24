@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/chentsulin/sweetalert-react",
   "dependencies": {
-    "react": "^15.0.1",
+    "react": "^16.5.0",
     "react-dom": "^16.0.1",
     "shortid": "^2.2.6",
     "sweetalert": "^1.1.3"
